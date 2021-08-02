@@ -1,0 +1,5 @@
+Panadol,100Rs,5,syrup
+Brufen,200Rs,6,syrup
+Arinac,70Rs,10,TBs
+s,2,3,4
+d,1,2,3
